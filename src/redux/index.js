@@ -1,0 +1,1 @@
+export {getSale} from './sales/salesAction'

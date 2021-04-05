@@ -1,0 +1,1 @@
+export const GET_SALE='GET_SALE'

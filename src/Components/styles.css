@@ -1,0 +1,76 @@
+.sidebar {
+    position: fixed;
+    width: 22%;
+    height: 100vh;
+    background:  #e6ffff;
+    font-size: 2em;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
+  .main-body{
+    position: relative;
+    float: right;
+    width: 75%;
+    background:  #e6ffff;
+    font-size: 2em;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
+  .img {
+    border-radius: 5px 5px 5px 5px;
+    object-fit: contain;
+    max-width: 90%;
+    max-height: 90%;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+  }
+  .title{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  .subtitle{
+    font-size: 15px;
+    color: #8c8c8c;
+  }
+  .tag{
+    font-size:15px;
+    color: black;
+  }
+  .sales{
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+    font-size: 15px
+  }
+  .sales td, .sales th {
+    border: 2px solid #ddd;
+    padding: 8px;
+  }
+  .sales th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #180e73;
+    color: white;
+  }
+  .topnav {
+    background-color:#180e73;
+    overflow: hidden;
+    padding: 10px 10px;
+    display: block;
+    
+  }
+  .topLogo{
+    float: left;
+    margin: 0px 0px 0px 0px
+  }
