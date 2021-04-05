@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stackline-project/static/css/main.4d758a4c.chunk.css",
+    "main.js": "/stackline-project/static/js/main.c2b2f383.chunk.js",
+    "main.js.map": "/stackline-project/static/js/main.c2b2f383.chunk.js.map",
+    "runtime-main.js": "/stackline-project/static/js/runtime-main.59fd664c.js",
+    "runtime-main.js.map": "/stackline-project/static/js/runtime-main.59fd664c.js.map",
+    "static/js/2.51e28f86.chunk.js": "/stackline-project/static/js/2.51e28f86.chunk.js",
+    "static/js/2.51e28f86.chunk.js.map": "/stackline-project/static/js/2.51e28f86.chunk.js.map",
+    "static/js/3.494a075d.chunk.js": "/stackline-project/static/js/3.494a075d.chunk.js",
+    "static/js/3.494a075d.chunk.js.map": "/stackline-project/static/js/3.494a075d.chunk.js.map",
+    "index.html": "/stackline-project/index.html",
+    "static/css/main.4d758a4c.chunk.css.map": "/stackline-project/static/css/main.4d758a4c.chunk.css.map",
+    "static/js/2.51e28f86.chunk.js.LICENSE.txt": "/stackline-project/static/js/2.51e28f86.chunk.js.LICENSE.txt",
+    "static/media/logo.7290fa6c.JPG": "/stackline-project/static/media/logo.7290fa6c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fd664c.js",
+    "static/js/2.51e28f86.chunk.js",
+    "static/css/main.4d758a4c.chunk.css",
+    "static/js/main.c2b2f383.chunk.js"
+  ]
+}
